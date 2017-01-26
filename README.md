@@ -1,4 +1,4 @@
-# Sunset-Shockwave
+# Sunset Shockwave
 Sunshet Scockwave is a local multiplayer competitive game where you play a volleyball match controlled by brainwaves. 
 
 This Github Repository holds the original version of the game's code and assets available for the public, as under the conditions of the 
