@@ -1,0 +1,14 @@
+# Unity Folders
+Temp/
+Obj/
+UnityGenerated/
+Library/
+Builds/
+
+# Visual Studio Files
+*.vs
+*.csproj
+*.CSharp
+*.sln
+*.userprefs
+*.exe
